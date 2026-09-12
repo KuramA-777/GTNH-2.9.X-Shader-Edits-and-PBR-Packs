@@ -67,3 +67,17 @@ Additionally ive changed the Modernitys Gregtech Coil blocks so they look more d
 
 -
 <img width="994" height="180" alt="image" src="https://github.com/user-attachments/assets/fd2d102e-cdd3-4d14-a6f7-5c9e1f87ee11" />
+
+
+-
+Example Screenshots
+
+- Comp + EP
+- <img width="2142" height="1275" alt="image" src="https://github.com/user-attachments/assets/907a3412-b22a-443a-9a84-cf5226f68bd9" />
+
+- Photon
+- <img width="2135" height="1291" alt="image" src="https://github.com/user-attachments/assets/7c62970a-b464-4e18-91e4-e4de95280951" />
+
+- Eclipse
+- <img width="1973" height="1316" alt="image" src="https://github.com/user-attachments/assets/082a8638-4136-47df-aa94-4b87dfa41874" />
+
