@@ -1,4 +1,15 @@
 
+- Shader Configs and PBR Packs for GTNH
+
+
+- Working with:
+  
+		- Comp 5.9 + EP 1.10
+		- Photon 1.3
+		- Eclipse
+
+
+
 Download via Big Green "<> Code" button -> Download ZIP
 
 Inside it extract the 3 zip files into your "resourcepacks" Folder
@@ -10,7 +21,7 @@ Inside it extract the 3 zip files into your "resourcepacks" Folder
     - Modernity-GTNH
     - etc ...
 
-The other 3 Files are sahder config files, just have to be aware that for Eclipse you need to rename it or the Shaderpack folder/zip accordingly, and its not Curseforge so download it here https://github.com/Merlin1809/Eclipse-Shader
+The other 3 Files are sahder config files, just have to be aware that for Eclipse you need to rename it or the Shaderpack folder/zip accordingly, and its not on Curseforge so download it here https://github.com/Merlin1809/Eclipse-Shader
 
 
 
