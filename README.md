@@ -36,6 +36,7 @@ Otherwise alot of WIP and missing stuff, so dont expect too much, but these pack
 	- Ztones Azur 4, 5, 6, 9, 10
 	- All of Ztones Zyth
 	- Some Misc Gregtech casings/blocks and Hatch/Bus Overlays
+	- Many AE2 Blocks like Wireless Connectors, Crafting Storage etc..
 
 -
 
