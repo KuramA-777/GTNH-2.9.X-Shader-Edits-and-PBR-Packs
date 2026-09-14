@@ -2,33 +2,34 @@
 - Shader Configs and PBR Packs for GTNH
 
 
-- Working with:
-  
-		- Comp 5.9 + EP 1.10
-		- Photon 1.3
-		- Eclipse
+- Working with
+  - Comp 5.9 + EP 1.10
+  - Photon 1.3
+  - Eclipse
 
 
-
+___________________________________________________________________
 Download via Big Green "<> Code" button -> Download ZIP
 
 Inside it extract the 3 zip files into your "resourcepacks" Folder
-    
-    Load Order
+___________________________________________________________________
+- Load Order
     - KuraNeonGTNH
     - KuraRflectionsGTNH
     - KuraBetterCoilsGTNH
+	- KuraNeonExtrasGTNH
     - Modernity-GTNH
     - etc ...
-
-The other 3 Files are sahder config files, just have to be aware that for Eclipse you need to rename it or the Shaderpack folder/zip accordingly, and its not on Curseforge so download it here https://github.com/Merlin1809/Eclipse-Shader
+____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+The other 3 Files are shader config files, just have to be aware that for Eclipse you need to rename it or the Shaderpack folder/zip accordingly, and its not on Curseforge so download it here https://github.com/Merlin1809/Eclipse-Shader
 
 
 
 Otherwise alot of WIP and missing stuff, so dont expect too much, but these packs offer this so far:
-
-
-	Neon / Glowy Blocks
+____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+-
+	
+    Neon / Glowy Blocks
 	- All of Chisels Antiblocks
 	- All of Chisels Neonite
 	- All of Chisels Glotek
@@ -38,9 +39,9 @@ Otherwise alot of WIP and missing stuff, so dont expect too much, but these pack
 	- Some Misc Gregtech casings/blocks and Hatch/Bus Overlays
 	- Many AE2 Blocks like Wireless Connectors, Crafting Storage etc..
 
--
+______________________________________________________________________________________________________________________________________
 
-	Reflective Blocks
+- Reflective Blocks
 	- 3 of Botania Portuguese Pavement Blocks (White, Black, Blue)
 	- Smokey Quartz both Chiseld and Regular
 	- 3 of Chisels Small Tiles Blocks (similar to pavement) (Marble, Cyan and Light Blue Terracota)
@@ -60,16 +61,27 @@ Otherwise alot of WIP and missing stuff, so dont expect too much, but these pack
     - Polished Shale from BOP 
     - Kitchen Floors from CFBH, both White and Black
 
--
+______________________________________________________________________________________________________________________________________    
 
 Additionally ive changed the Modernitys Gregtech Coil blocks so they look more distinct and colorful, and have more of a Glow Effect when Active
 
 
--
 <img width="994" height="180" alt="image" src="https://github.com/user-attachments/assets/fd2d102e-cdd3-4d14-a6f7-5c9e1f87ee11" />
 
 
+______________________________________________________________________________________________________________________________________
 -
+	
+    NeonExtra - Texture Swaps 
+	- Chisel Terracotta Blocks of the Category Blue, Brown, Green, Red and Black (search with "@chisel terracott" in NEI)
+    - Chisel Valentine Blocks (be suprised)
+    -
+    - BEWARE some visual bugs with Photon and Eclipse on some Blocks that have both reflective and emissive properties
+    
+    <img width="984" height="442" alt="image" src="https://github.com/user-attachments/assets/4a283926-cb9f-4088-bf28-4500c01ef5a6" />
+
+______________________________________________________________________________________________________________________________________
+
 Example Screenshots
 
 - Comp + EP
