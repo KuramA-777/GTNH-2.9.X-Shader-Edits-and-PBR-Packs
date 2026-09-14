@@ -5,7 +5,7 @@
 - Working with
   - Comp 5.9 + EP 1.10
   - Photon 1.3
-  - Eclipse
+  - Bliss/Eclipse
 
 
 ___________________________________________________________________
@@ -21,7 +21,7 @@ ___________________________________________________________________
     - Modernity-GTNH
     - etc ...
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-The other 3 Files are shader config files, just have to be aware that for Eclipse you need to rename it or the Shaderpack folder/zip accordingly, and its not on Curseforge so download it here https://github.com/Merlin1809/Eclipse-Shader
+The other 3 Files are shader config files, just have to be aware that for Bliss/Eclipse you need to rename it or the Shaderpack folder/zip accordingly, and its not on Curseforge so download it here https://github.com/Merlin1809/Eclipse-Shader
 
 
 
